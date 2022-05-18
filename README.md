@@ -7,10 +7,25 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
 	```
 	# Teste de Engenharia de Sofware
-	
+
 	- **Aluno:** *NR_ALUNO*
 	- **Nome:**  *NOME_ALUNO*
 	- **Data:**  *DIA_DE_HOJE*
 	```
 
-	2.1. Faça *commit* desse ficheiro no *branch* "master" com a mensagem `#2 – Add README.MD`, faça também o *push* para o repositório remoto.
+  2.1. Crie um *commit* com esse ficheiro no *branch* "master" com a mensagem `#2 – Add README.MD`, faça também o *push* para o repositório remoto.
+
+3. Crie um novo *branch* com o nome "feat/ex3" com base na versão mais recente do "master".
+
+  3.1. Copie a pasta `ex3` para o seu repositório, crie um commit com o texto `#3 – Add ex3 files` e envie para o repositório remoto.
+
+  3.2. O ficheiro `CalculatorAPI.java` não tem comentários *JavaDoc*, adicione-os ao ficheiro utilizando as *tags* que considerar relevantes.
+	- Crie um *commit* com o texto `#3 - Add Javadoc to CalculatorAPI.java`
+	- Envie o *commit* para o repositório remoto.
+
+  3.3. Crie testes unitários para cada método da classe `CalculatorAPI`.
+	- Crie um *commit* com o texto `#3 - Add JUnit tests to CalculatorAPI.java`
+	- Envie o *commit* para o repositório remoto.
+
+  3.4. Inclua as alterações do *branch* "feat/ex3" no "master" (merge).
+	- Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex3")**
