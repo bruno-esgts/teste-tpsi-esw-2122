@@ -21,14 +21,14 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
   3.2. O ficheiro `CalculatorAPI.java` não tem comentários *JavaDoc*, adicione-os ao ficheiro utilizando as *tags* que considerar relevantes.
 
-	- Crie um *commit* com o texto `#3 - Add Javadoc to CalculatorAPI.java`
-	- Envie o *commit* para o repositório remoto.
+  - Crie um *commit* com o texto `#3 - Add Javadoc to CalculatorAPI.java`
+  - Envie o *commit* para o repositório remoto.
 
   3.3. Crie testes unitários para cada método da classe `CalculatorAPI`.
 
-	- Crie um *commit* com o texto `#3 - Add JUnit tests to CalculatorAPI.java`
-	- Envie o *commit* para o repositório remoto.
+  - Crie um *commit* com o texto `#3 - Add JUnit tests to CalculatorAPI.java`
+  - Envie o *commit* para o repositório remoto.
 
   3.4. Inclua as alterações do *branch* "feat/ex3" no "master" (merge).
 
-	- Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex3")**
+  - Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex3")**
