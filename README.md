@@ -32,3 +32,17 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
   3.4. Inclua as alterações do *branch* "feat/ex3" no "master" (merge).
 
   - Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex3")**
+
+4. Crie um novo *branch* com o nome "feat/ex4" com base na versão mais recente do "master".
+
+  4.1. Crie um novo projecto maven com as seguintes caracteristicas:
+    - **Group ID:** pt.esgts.esw
+    - **Artifact ID:** ex4
+    - Crie um *commit* com o texto `#4 - Create project`
+    - Envie o *commit* para o repositório remoto.
+
+  4.2. Crie uma aplicação para gerar palavras passe, deve usar uma *library* externa para o efeito
+    - Pode consultar mais info sobre a bibioteca recomendada [aqui]()
+    - Crie um *commit* com o texto `#4 - Using password generation library`
+    - Envie o *commit* para o repositório remoto.
+
