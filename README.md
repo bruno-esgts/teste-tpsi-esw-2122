@@ -43,7 +43,7 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
 
   4.2. Crie uma aplicação para gerar palavras passe, deve usar uma *library* externa para o efeito
-  - Pode consultar mais info sobre a bibioteca recomendada [aqui]()
+  - Pode consultar mais info sobre a bibioteca recomendada [aqui](https://github.com/bruno-esgts/password-generator-lib)
   - Crie um *commit* com o texto `#4 - Using password generation library`
   - Envie o *commit* para o repositório remoto.
 
