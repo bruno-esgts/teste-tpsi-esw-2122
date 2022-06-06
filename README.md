@@ -3,6 +3,9 @@
 1. Crie um repositório no GitHub com o seguinte formato <NR_ALUNO>-ESW-TESTE-1, o repositório deve ser privado.
 Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
+
+**Adicione a conta `bruno-esgts (bruno.jesus@esg.ipsantarem.pt)` ao repositório.**
+
 ---
 
 2. Crie um ficheiro `README.MD` com o conteúdo abaixo:
@@ -52,4 +55,8 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
     - Pode consultar mais info sobre a bibioteca recomendada [aqui](https://github.com/bruno-esgts/password-generator-lib)
     - Crie um *commit* com o texto `#4 - Using password generation library`
     - Envie o *commit* para o repositório remoto.
+    
+  - **4.3.** Inclua as alterações do *branch* "feat/ex4" no "master" (merge).
+  
+    - Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex4")**
 
