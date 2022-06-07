@@ -1,10 +1,15 @@
 # Teste de Engenharia de Software - TPSI - 2021/22
 
+**No fim do teste envie um e-mail para `bruno.jesus@esg.ipsantarem.pt` com o link para o repositório com a realização do teste, não abandone a sala até ter confirmação de que o repositório está acessível para o professor!**
+
+**A conta `bruno-esgts (bruno.jesus@esg.ipsantarem.pt)` deve ser adicionada ao seu repositório.**
+
+**É permitida a consulta de documentos online durante a realização do teste, é proibida a comunicação por IM ou a utilização de redes sociais.**
+
+---
+
 1. Crie um repositório no GitHub com o seguinte formato <NR_ALUNO>-ESW-TESTE-1, o repositório deve ser privado.
 Todos os exercícios seguintes devem ser feitos dentro deste repositório. *(1 valor)*
-
-
-**Adicione a conta `bruno-esgts (bruno.jesus@esg.ipsantarem.pt)` ao repositório.**
 
 ---
 
