@@ -1,14 +1,14 @@
 # Teste de Engenharia de Software - TPSI - 2021/22
 
 1. Crie um repositório no GitHub com o seguinte formato <NR_ALUNO>-ESW-TESTE-1, o repositório deve ser privado.
-Todos os exercícios seguintes devem ser feitos dentro deste repositório.
+Todos os exercícios seguintes devem ser feitos dentro deste repositório. *(1 valor)*
 
 
 **Adicione a conta `bruno-esgts (bruno.jesus@esg.ipsantarem.pt)` ao repositório.**
 
 ---
 
-2. Crie um ficheiro `README.MD` com o conteúdo abaixo:
+2. Crie um ficheiro `README.MD` com o conteúdo abaixo *(1 valor)*:
 
 	```
 	# Teste de Engenharia de Sofware
@@ -24,19 +24,19 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
 3. Crie um novo *branch* com o nome "feat/ex3" com base na versão mais recente do "master".
 
-  - **3.1.** Copie a pasta `ex3` para o seu repositório, crie um commit com o texto `#3 – Add ex3 files` e envie para o repositório remoto.
+  - **3.1.** Copie a pasta `ex3` para o seu repositório, crie um commit com o texto `#3 – Add ex3 files` e envie para o repositório remoto. *(2 valores)*
 
-  - **3.2.** O ficheiro `CalculatorAPI.java` não tem comentários *JavaDoc*, adicione-os ao ficheiro utilizando as *tags* que considerar relevantes.
+  - **3.2.** O ficheiro `CalculatorAPI.java` não tem comentários *JavaDoc*, adicione-os ao ficheiro utilizando as *tags* que considerar relevantes. *(3 valores)
 
     - Crie um *commit* com o texto `#3 - Add Javadoc to CalculatorAPI.java`
     - Envie o *commit* para o repositório remoto.
 
-  - **3.3.** Crie testes unitários para cada método da classe `CalculatorAPI`.
+  - **3.3.** Crie testes unitários para cada método da classe `CalculatorAPI`. *(3 valores)*
 
     - Crie um *commit* com o texto `#3 - Add JUnit tests to CalculatorAPI.java`
     - Envie o *commit* para o repositório remoto.
 
-  - **3.4.** Inclua as alterações do *branch* "feat/ex3" no "master" (merge).
+  - **3.4.** Inclua as alterações do *branch* "feat/ex3" no "master" (merge). *(2 valores)*
 
     - Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex3")**
 
@@ -44,19 +44,19 @@ Todos os exercícios seguintes devem ser feitos dentro deste repositório.
 
 4. Crie um novo *branch* com o nome "feat/ex4" com base na versão mais recente do "master".
 
-  - **4.1.** Crie um novo projecto maven com as seguintes caracteristicas:
+  - **4.1.** Crie um novo projecto maven com as seguintes caracteristicas: *(3 valores)*
     - **Group ID:** pt.esgts.esw
     - **Artifact ID:** ex4
     - Crie um *commit* com o texto `#4 - Create project`
     - Envie o *commit* para o repositório remoto.
 
 
-  - **4.2.** Crie uma aplicação para gerar palavras passe, deve usar uma *library* externa para o efeito
+  - **4.2.** Crie uma aplicação para gerar palavras passe, deve usar uma *library* externa para o efeito *(3 valores)*
     - Pode consultar mais info sobre a bibioteca recomendada [aqui](https://github.com/bruno-esgts/password-generator-lib)
     - Crie um *commit* com o texto `#4 - Using password generation library`
     - Envie o *commit* para o repositório remoto.
     
-  - **4.3.** Inclua as alterações do *branch* "feat/ex4" no "master" (merge).
+  - **4.3.** Inclua as alterações do *branch* "feat/ex4" no "master" (merge). *(2 valores)*
   
     - Faça push de ambos os *branches* para o repositório remoto **(Não apague o branch "feat/ex4")**
 
